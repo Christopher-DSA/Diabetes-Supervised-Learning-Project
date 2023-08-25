@@ -4,7 +4,7 @@
 Project/Goals
 The goal is to create a machine learning model that can make connections between diabetes risk factors and a diagnosis.
 
-#Process
+## Process
 
 ---
 Results
