@@ -5,6 +5,8 @@ Project/Goals
 The goal is to create a machine learning model that can make connections between diabetes risk factors and a diagnosis.
 
 ## Process
+
+---
 1. Exploratory Data Analysis.
 
 -Are there any missing values in the dataset?
@@ -25,8 +27,9 @@ Average age is 35 with diabetes
 ![image](https://github.com/Christopher-DSA/Supervised-Learning-Project/assets/132075292/cab171c2-32ae-4597-abcb-b9b13dc244fe)
 Average age is 30 without diabetes
 
----
 ## Results
+
+---
 Two machine learning models were trained:
 
 Random Forest Model: 
@@ -44,8 +47,12 @@ If we choose SVM we would be more resevered when it comes to deciding whether so
 
 
 ## Challenges
+
+---
 The short time span of the project was an interesting challenge.
 Condensing the information into a powerpoint was sligtly challenging.
 
 ## Future Goals
+
+---
 If I had more time I would train more machine learning models to see if I can find an optimal one for the problem being solved here.
