@@ -22,9 +22,11 @@ The average age is 33.
 -What is the average BMI with and without diabetes?
 
 ![image](https://github.com/Christopher-DSA/Supervised-Learning-Project/assets/132075292/dbe87982-daae-4ebc-8ead-482f5dad1ec7)
+
 Average age is 35 with diabetes
 
 ![image](https://github.com/Christopher-DSA/Supervised-Learning-Project/assets/132075292/cab171c2-32ae-4597-abcb-b9b13dc244fe)
+
 Average age is 30 without diabetes
 
 ## Results
