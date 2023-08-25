@@ -26,7 +26,7 @@ Average age is 35 with diabetes
 Average age is 30 without diabetes
 
 ---
-Results
+## Results
 Two machine learning models were trained:
 
 Random Forest Model: 
@@ -43,9 +43,9 @@ If we choose the Random Forest Model we are more likey to catch all true positiv
 If we choose SVM we would be more resevered when it comes to deciding whether someone has diabetes.
 
 
-Challenges
+## Challenges
 The short time span of the project was an interesting challenge.
 Condensing the information into a powerpoint was sligtly challenging.
 
-Future Goals
+## Future Goals
 If I had more time I would train more machine learning models to see if I can find an optimal one for the problem being solved here.
