@@ -16,6 +16,7 @@ Fortunately, there are not any missing values in the dataset.
   ![image](https://github.com/Christopher-DSA/Supervised-Learning-Project/assets/132075292/cd5f4f1c-72c3-4212-8110-f6026ac1ef67)
 
 - What is the average age of the individuals in the dataset?
+
 ![image](https://github.com/Christopher-DSA/Supervised-Learning-Project/assets/132075292/42033764-7052-489d-9e7b-ebf6df38957d)
 The average age is 33.
 
