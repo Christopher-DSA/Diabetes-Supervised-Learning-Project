@@ -7,7 +7,7 @@ The goal is to create a machine learning model that can make connections between
 ## Process
 
 ---
-1. Exploratory Data Analysis.
+# 1. Exploratory Data Analysis.
 
 -Are there any missing values in the dataset?
 Fortunately, there are not any missing values in the dataset.
