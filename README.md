@@ -7,6 +7,10 @@ The goal is to create a machine learning model that can make connections between
 ## Process
 
 ---
+# Cleaning the data.
+Some columns contain zeros where it shouldn't be possible, for example: a BMI of 0.
+We will impute the data and replace these zero values with the average BMI and the same goes for the other columns with zero values where there should not be.
+
 # 1. Exploratory Data Analysis.
 
 -Are there any missing values in the dataset?
